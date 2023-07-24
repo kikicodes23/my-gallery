@@ -18,12 +18,12 @@ export default function Home() {
   ]
 
   const photo = [
-    {photoSrc: photo1, area: "first"},
-    {photoSrc: photo2, area: "second"},
-    {photoSrc: photo3, area: "third"},
-    {photoSrc: photo4, area: "fourth"},
-    {photoSrc: photo5, area: "fifth"},
-    {photoSrc: photo6, area: "sixth"},
+    {photoSrc: photo1, area: "grid-area/first"},
+    {photoSrc: photo2, area: "grid-area/second"},
+    {photoSrc: photo3, area: "grid-area/third"},
+    {photoSrc: photo4, area: "grid-area/fourth"},
+    {photoSrc: photo5, area: "grid-area/fifth"},
+    {photoSrc: photo6, area: "grid-area/sixth"},
   ]
 
   return (
